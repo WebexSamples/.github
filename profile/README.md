@@ -9,4 +9,4 @@ Welcome to the WebexSamples github organization. In this organization, you can f
 * https://developer.webex.com/support
 * @WebexDevs: https://twitter.com/webexdevs
 
-Made with <3 by the Webex Developer Evangelism Team at Cisco
+Made with <3 by the Webex Developer Relations Team at Cisco
